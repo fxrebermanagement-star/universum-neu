@@ -1,0 +1,26 @@
+{
+  "id": "/universum-neu/",
+  "name": "Universum Neu",
+  "short_name": "Universum",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090614",
+  "theme_color": "#090614",
+  "lang": "de",
+  "description": "Rituale, Mond, Karten, Sigille, Chronik — Universum Neu",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
